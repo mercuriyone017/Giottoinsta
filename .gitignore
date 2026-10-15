@@ -1,0 +1,6 @@
+# Videolar va audio repoga kerak emas
+goyalar/_xom/*/video.*
+goyalar/_xom/*/audio.wav
+# Alohida kadrlar ko'p joy oladi, jadval rasmi yetarli
+goyalar/_xom/*/kadrlar/
+__pycache__/
